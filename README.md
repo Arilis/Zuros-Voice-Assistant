@@ -11,6 +11,7 @@ __Getting Started__
 pip install pyttsx3
 pip install pyaudio
 pip install SpeechRecognition
+pip install requests
 ```
 
 __Current Commands__
