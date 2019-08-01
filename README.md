@@ -15,5 +15,5 @@ pip install SpeechRecognition
 
 __Current Commands__
 
-__Weather__ *API Key & Zipcode input required, sign up here for your API key - https://openweathermap.org/api*
-__Open Google__ *Opens a new google tab in your browser/opens your browser and google*
+* __Weather__ *API Key & Zipcode input required, sign up here for your API key - https://openweathermap.org/api*
+* __Open Google__ *Opens a new google tab in your browser/opens your browser and google*
